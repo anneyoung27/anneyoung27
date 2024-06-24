@@ -2,7 +2,6 @@
 <p align="center">
 Passionate about developing and testing applications
 </p>
-<h2 align="center">"I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln</h2>
 
 
 ### 🧰 Languages and Tools
@@ -22,3 +21,8 @@ Passionate about developing and testing applications
 <img align="left" alt="Katalon Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg"/>
 <img align="left" alt="Apache JMeter" width="30px" style="padding-right:10px;" src="https://jmeter.apache.org/images/jmeter_square.svg"/>
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original-wordmark.svg"/>
+
+
+<p align="center">
+I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
+</p>
