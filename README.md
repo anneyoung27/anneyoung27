@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Injas Mahendra Berutu</h1>
-<h4 alight="center">Passionate about developing and testing applications</h4>
+<p align="center">
+Passionate about developing and testing applications
+</p>
 <h2 align="center">"I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln</h2>
 
 
