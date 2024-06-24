@@ -15,3 +15,6 @@ Passionate about developing and testing applications with Java programming langu
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original-wordmark.svg"/>
 <img align="left" alt="Cucumber" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cucumber/cucumber-plain-wordmark.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg"/>
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-plain-wordmark.svg"/>
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-plain.svg"/>
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Katalon-logo-vector.svg"/>
