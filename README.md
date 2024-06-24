@@ -3,8 +3,8 @@
 Passionate about developing and testing applications
 </p>
 
-[![Injas Mahendra Berutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anneyoung27)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Injas Mahendra Berutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anneyoung27&show_icons=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg"/>
