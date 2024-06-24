@@ -23,6 +23,8 @@ Passionate about developing and testing applications
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original-wordmark.svg"/>
 
 
+
+
 <p align="center">
 I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
 </p>
