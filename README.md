@@ -1,6 +1,6 @@
 # Hi 👋, I'm Injas Mahendra Berutu
 
-Passionate about developing and testing applications with Java programming language using Selenium and Rest Assured
+"I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
 
 
 ### 🧰 Languages and Tools
