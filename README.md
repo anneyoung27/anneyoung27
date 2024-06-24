@@ -3,6 +3,7 @@
 Passionate about developing and testing applications
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg"/>
@@ -23,7 +24,7 @@ Passionate about developing and testing applications
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original-wordmark.svg"/>
 
 
-
+### 💬 Get in Touch with Me!
 
 <p align="center">
 I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
