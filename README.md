@@ -28,5 +28,5 @@ Passionate about developing and testing applications
 ### 📫 Get in Touch with Me!
 
 <p align="center">
-I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
+"I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
 </p>
