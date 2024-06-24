@@ -1,4 +1,7 @@
-# Hi 👋, I'm Injas Mahendra Berutu
+<p align="center">
+  # Hi 👋, I'm Injas Mahendra Berutu
+</p>
+
 
 "I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
 
