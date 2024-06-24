@@ -19,4 +19,4 @@ Passionate about developing and testing applications with Java programming langu
 <img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-plain.svg"/>
 <img align="left" alt="Katalon Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg"/>
 <img align="left" alt="Apache JMeter" width="30px" style="padding-right:10px;" src="https://jmeter.apache.org/images/jmeter_square.svg"/>
-<img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg"/>
+<img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original-wordmark.svg"/>
