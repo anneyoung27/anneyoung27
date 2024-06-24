@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Automation Testing**
-- 📫 How to reach me **mahendraqa27@gmail.com**
+- 📫 How to reach me **mahendraqa27@gmail.com** 
 - ⚡ Fun fact **I think I am curious and continuous learning**
 
 
