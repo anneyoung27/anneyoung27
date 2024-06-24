@@ -1,32 +1,25 @@
-<h1 align="center">Hi 👋, I am Injas Mahendra Berutu</h1>
+<h1 align="center">Hi 👋, I'm Injas Mahendra Berutu</h1>
+<h3 align="center">A Passionate Quality Assurance Engineer from Indonesia</h3>
+
+# 💫 About Me:
+- 🌱 I’m currently learning **Automation Testing**
+- 📫 How to reach me **mahendraqa27@gmail.com**
+- ⚡ Fun fact **I think I am curious and continuous learning**
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nowsmart27/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imb27/) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-Passionate about developing and testing applications
+  <img alt="My Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=anneyoung27&show_icons=true&bg_color=00000000&theme=github_dark_dimmed"/>
+  <img alt="My Programming Languages" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneyoung27&layout=compact&theme=github_dark_dimmed"/>
 </p>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=anneyoung27&show_icons=true&bg_color=00000000&theme=github_dark_dimmed)](https://github-readme-stats.vercel.app/api?username=anneyoung27)
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anneyoung27&label=Profile%20views&color=0e75b6&style=flat" alt="anneyoung27" /> </p>
 
-### 🧰 Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original-wordmark.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="JIRA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg"/>
-<img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg"/>
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original-wordmark.svg"/>
-<img align="left" alt="Cucumber" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cucumber/cucumber-plain-wordmark.svg"/>
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg"/>
-<img align="left" alt="IntellijIDEA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-plain-wordmark.svg"/>
-<img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-plain.svg"/>
-<img align="left" alt="Katalon Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg"/>
-<img align="left" alt="Apache JMeter" width="30px" style="padding-right:10px;" src="https://jmeter.apache.org/images/jmeter_square.svg"/>
-<img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original-wordmark.svg"/>
-
-
-### 📫 Get in Touch with Me!
-
-<p align="center">
-"I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
