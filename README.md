@@ -1,7 +1,4 @@
-<p align="center">
-  # Hi 👋, I'm Injas Mahendra Berutu
-</p>
-
+<h1 align="center"># Hi 👋, I'm Injas Mahendra Berutu</h1>
 
 "I Will PREPARE and someday MY CHANCE will come" - Abraham Lincoln
 
