@@ -3,7 +3,7 @@
 Passionate about developing and testing applications
 </p>
 
-[![Injas Mahendra Berutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anneyoung27)](https://github.com/anuraghazra/github-readme-stats)
+[![Injas Mahendra Berutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anneyoung27)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### 🧰 Languages and Tools
