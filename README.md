@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Injas Mahendra Berutu</h1>
+<h1 align="center">Hi 👋, I am Injas Mahendra Berutu</h1>
 <p align="center">
 Passionate about developing and testing applications
 </p>
