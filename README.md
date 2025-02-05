@@ -13,6 +13,7 @@
 # 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Katalon](https://img.shields.io/badge/Katalon-32B6C4?logo=katalon&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#)
 
