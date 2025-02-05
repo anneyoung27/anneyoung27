@@ -11,12 +11,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahendra2708_/) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/imb27/)
 
 # 💻 Tech Stack:
-[![Apache Maven](https://raw.githubusercontent.com/your-username/your-repo/main/apache-maven.svg)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Katalon](https://img.shields.io/badge/Katalon-32B6C4?style=flat&logo=testing-library&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
-[![TestNG](https://img.shields.io/badge/TestNG-FF7300?logo=testing-library&logoColor=fff)](#)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#)
 
 <h3 align="left">📊 GitHub Stats:</h3>
