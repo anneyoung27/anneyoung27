@@ -15,6 +15,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Katalon](https://img.shields.io/badge/Katalon-32B6C4?style=flat&logo=testing-library&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![TestNG](https://img.shields.io/badge/TestNG-FF7300?logo=testng&logoColor=fff)](#)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#)
 
 <h3 align="left">📊 GitHub Stats:</h3>
