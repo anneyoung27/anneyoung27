@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I think I am curious and continuous learning**
 
 
-## 🌐 Socials:
+## 💬 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mahendra2708_/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imb27/)
 
 # 💻 Tech Stack:
