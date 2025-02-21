@@ -26,16 +26,3 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
-
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img alt="My Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=anneyoung27&show_icons=true&bg_color=00000000&theme=github_dark_dimmed"/>
-  <img alt="My Programming Languages" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneyoung27&layout=compact&theme=github_dark_dimmed"/>
-</p>
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anneyoung27&label=Profile%20views&color=0e75b6&style=flat" alt="anneyoung27" /> </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
