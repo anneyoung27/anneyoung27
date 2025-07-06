@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Automation Testing**
 - 📫 How to reach me **mahendraqa27@gmail.com** 
 - ⚡ Fun fact **I think I am curious and continuous learning**
+- ❗️ Currently active working with Selenium Framework
 
 
 ## 💬 Socials:
