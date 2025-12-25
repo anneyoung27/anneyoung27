@@ -2,13 +2,9 @@
 <h3 align="center">A Passionate Quality Assurance Engineer from Indonesia</h3>
 
 🌱 I’m currently learning **Automation Testing** (Cypress & Selenium)
-
 ⚙️ Actively practicing Cypress for end-to-end testing
-
 ❗️ Currently working with Selenium Framework
-
 📫 How to reach me: **mahendraqa27@gmail.com**
-
 ⚡ Fun fact: I’m curious and enjoy continuous learning
 
 
