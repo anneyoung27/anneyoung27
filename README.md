@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate Quality Assurance Engineer from Indonesia</h3>
 
 ## 💫 About Me
-🌱 I’m currently learning **Automation Testing** (Cypress & Selenium)
+🌱 I’m currently learning **Automation Testing** (Cypress, Playwright, and Selenium)
 
-⚙️ Actively practicing Cypress for end-to-end testing
+⚙️ Actively studying Cypress
 
-❗️ Currently working with Selenium Framework
+❗️ Currently working with Selenium Framework and Playwright Framework
 
 📫 How to reach me: **mahendraqa27@gmail.com**
 
