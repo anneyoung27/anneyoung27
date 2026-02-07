@@ -4,7 +4,7 @@
 ## 💫 About Me
 🌱 I’m currently learning **Automation Testing** (Cypress, Playwright, and Selenium)
 
-⚙️ Actively studying Cypress
+⚙️ Actively studying Cypress and Playwright
 
 ❗️ Currently working with Selenium Framework and Playwright Framework
 
