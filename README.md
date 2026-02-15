@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Quality Assurance Engineer from Indonesia</h3>
 
 ## 💫 About Me
-🌱 I’m currently learning **Automation Testing** (Playwright, and Selenium)
+🌱 I’m currently learning **Automation Testing** (Playwright and Selenium)
 
 ⚙️ Actively studying Playwright
 
