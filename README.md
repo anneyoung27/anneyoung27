@@ -1,37 +1,56 @@
-<h1 align="center">Hi 👋, I'm Injas Mahendra Berutu</h1>
-<h3 align="center">A Passionate Quality Assurance Engineer from Indonesia</h3>
+<h1 align="center">Injas Mahendra Berutu</h1>
+<h3 align="center">Quality Assurance Engineer | Test Automation Enthusiast</h3>
 
-## 💫 About Me
-🌱 I’m currently learning **Automation Testing** (Playwright and Selenium)
+<p align="center">
+Engineering reliable and scalable test automation solutions  
+Focused on <b>Automation Testing • API Testing • Test Framework Development</b>
+</p>
 
-⚙️ Actively studying Playwright
+<p align="center">
 
-❗️ Currently working with Selenium Framework and Playwright Framework
+![Automation](https://img.shields.io/badge/AUTOMATION-00c2cb?style=for-the-badge)
+![QA](https://img.shields.io/badge/QUALITY%20ASSURANCE-1f6feb?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/TEST%20AUTOMATION-8A2BE2?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20TESTING-20c997?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2ea44f?style=for-the-badge)
+![E2E Testing](https://img.shields.io/badge/E2E%20TESTING-17a2b8?style=for-the-badge)
 
-📫 How to reach me: **mahendraqa27@gmail.com**
+</p>
 
-⚡ Fun fact: I’m curious and enjoy continuous learning
+<p align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imb27/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mahendra2708_/)
+[![Email](https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahendraqa27@gmail.com)
 
+</p>
 
-## 💬 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mahendra2708_/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imb27/)
+---
 
-# 💻 Tech Stack:
-### 📋 Language
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 🚀 Technical Scope Overview
 
-### 💾 Database
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| Category | Tools & Skills |
+|--------|----------------|
+| **Automation** | Selenium • Playwright • Katalon |
+| **API Testing** | Postman • REST API Testing • Swagger |
+| **Frameworks** | Page Object Model (POM) • BDD (Cucumber) • Modular Framework |
+| **DevOps & CI/CD** | Jenkins • GitHub Actions |
+| **Test Management** | Jira • Trello |
+| **Database** | MySQL • SQL Server |
+| **Core Languages** | Java • TypeScript • Python |
 
-### 🧪 Testing
-![Katalon](https://img.shields.io/badge/-Katalon-%2332B6C4?style=for-the-badge&logo=katalon&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+---
 
+# 💫 About Me
 
+🌱 Currently improving skills in **Automation Testing (Playwright & Selenium)**  
+
+⚙️ Experienced in building **automation frameworks using Selenium**  
+
+📚 Learning **Playwright for modern end-to-end testing**  
+
+📫 Reach me at **mahendraqa27@gmail.com**
+
+⚡ Fun fact: I love exploring new testing tools and improving automation strategies.
+
+---
