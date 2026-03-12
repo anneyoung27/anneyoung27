@@ -13,7 +13,7 @@ Focused on <b>Automation Testing • API Testing • Test Framework Development<
 ![Test Automation](https://img.shields.io/badge/TEST%20AUTOMATION-8A2BE2?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API%20TESTING-20c997?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2ea44f?style=for-the-badge)
-![E2E Testing](https://img.shields.io/badge/E2E%20TESTING-17a2b8?style=for-the-badge)
+![E2E Testing]([https://img.shields.io/badge/E2E%20TESTING-17a2b8?style=for-the-badge](https://camo.githubusercontent.com/bb6a1f4b784261cdeb73a2ba389baf4032f1a3b3eb55110353059e86b9a7abac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4532455f54455354494e472d3030423441423f7374796c653d666f722d7468652d6261646765266c6f676f3d7465737463616665266c6f676f436f6c6f723d7768697465))
 
 </p>
 
