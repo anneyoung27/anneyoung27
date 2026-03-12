@@ -2,7 +2,7 @@
 <h3 align="center">Quality Assurance Engineer | Test Automation Enthusiast</h3>
 
 <p align="center">
-Engineering reliable and scalable test automation solutions  
+Engineering reliable and scalable test automation
 Focused on <b>Automation Testing • API Testing • Test Framework Development</b>
 </p>
 
