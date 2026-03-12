@@ -24,12 +24,12 @@ Focused on <b>Automation Testing • API Testing • Test Framework Development<
 
 | Category | Tools & Skills |
 |--------|----------------|
-| **Automation** | Selenium • Playwright • Katalon |
-| **API Testing** | Postman • REST API Testing • Swagger |
-| **Frameworks** | Page Object Model (POM) • BDD (Cucumber) • Modular Framework |
+| **Automation** | Selenium • Playwright |
+| **API Testing** | Postman • REST API Testing • Swagger • Schema Validation|
+| **Frameworks** | Page Object Model (POM) • BDD (Cucumber) • Modular • Hybrid |
 | **DevOps & CI/CD** | Jenkins • GitHub Actions |
 | **Test Management** | Jira • Trello |
-| **Database** | MySQL • SQL Server |
+| **Database** | MySQL • SQL Server • PostgreSQL |
 | **Core Languages** | Java • TypeScript • Python |
 
 ---
