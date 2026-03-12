@@ -13,7 +13,7 @@ Focused on <b>Automation Testing • API Testing • Test Framework Development<
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imb27/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mahendra2708_/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/i.mahendra27/)
 [![Email](https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahendraqa27@gmail.com)
 
 </p>
