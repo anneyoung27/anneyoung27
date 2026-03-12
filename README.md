@@ -28,7 +28,6 @@ Focused on <b>Automation Testing • API Testing • Test Framework Development<
 | **API Testing** | Postman • REST API Testing • Swagger • Schema Validation|
 | **Frameworks** | Page Object Model (POM) • BDD (Cucumber) • Modular • Hybrid |
 | **DevOps & CI/CD** | Jenkins • GitHub Actions |
-| **Test Management** | Jira • Trello |
 | **Database** | MySQL • SQL Server • PostgreSQL |
 | **Core Languages** | Java • TypeScript • Python |
 
