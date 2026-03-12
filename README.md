@@ -2,21 +2,25 @@
 <h3 align="center">Quality Assurance Engineer | Test Automation Enthusiast</h3>
 
 <p align="center">
-Engineering reliable and scalable test automation
+Engineering reliable and scalable test automation <br>
 Focused on <b>Automation Testing • API Testing • Test Framework Development</b>
 </p>
 
-<p align="center">
+<div align="center">
 
-</p>
+<a href="https://www.linkedin.com/in/imb27/">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-<p align="center">
+<a href="https://www.instagram.com/i.mahendra27/">
+<img src="https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imb27/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/i.mahendra27/)
-[![Email](https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahendraqa27@gmail.com)
+<a href="mailto:mahendraqa27@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail">
+</a>
 
-</p>
+</div>
 
 ---
 
